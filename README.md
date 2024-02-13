@@ -7,3 +7,4 @@ Java programming language practices
 3. Hypotenuse Calculator
 4. Area of triangle Calculator
 5. Taximeter Calculator
+6. Calculator of Area and Perimeter of a Circle
