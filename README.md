@@ -8,3 +8,4 @@ Java programming language practices
 4. Area of triangle Calculator
 5. Taximeter Calculator
 6. Calculator of Area and Perimeter of a Circle
+7. Calculator of Area of Circle Section
