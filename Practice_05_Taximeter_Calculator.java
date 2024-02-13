@@ -17,9 +17,8 @@ public class Main {
 
         //Calculate
         totalAmount += (km * perKm);
-        totalAmount = (totalAmount < 20) ? 20 : totalAmount; //minimum payable amount is 20
 
         //Result
-        System.out.println("Taximeter total amount: " + totalAmount);
+        System.out.println((totalAmount < 20) ? "Total Amount: " + 20 : "Total Amount: " + totalAmount);
     }
 }
