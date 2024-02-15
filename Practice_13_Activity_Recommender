@@ -1,0 +1,35 @@
+/*
+Basic Activity Recommender
+Conditions:
+Suggest "Skiing" if the temperature is less than 5 degrees.
+If the temperature is between 5 and 15 degrees, suggest the "Cinema" activity.
+If the temperature is between 10 and 25 degrees, suggest the "Picnic" activity.
+If the temperature is greater than 25 degrees, recommend the "Swimming" activity.
+ */
+
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+        //Create variable
+        int heat;
+        //Define Scanner class
+        Scanner s = new Scanner(System.in);
+        //Take input from user
+        System.out.print("Enter temperature: ");
+        heat = s.nextInt();
+        //Make Decisions
+        if (heat < 5) {
+            System.out.println("Weather is cold enough to skiing!");
+        }else if (heat <= 25) {
+            if (heat <= 15 ) {
+                System.out.println("You can go to cinema!");
+            }
+            if (heat >= 10) {
+                System.out.println("Nice day for a picnic!");
+            }
+        } else {
+            System.out.println("Weather is warm enough to swim!");
+        }
+
+    }
+}
