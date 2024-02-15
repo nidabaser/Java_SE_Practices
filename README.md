@@ -11,3 +11,4 @@ Java programming language practices
 7. Calculator of Area of Circle Section
 8. Calculator of Body Mass Index (BMI)
 9. Grocery Cashier Program
+10. Basic Calculator
