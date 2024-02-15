@@ -13,3 +13,4 @@ Java programming language practices
 9. Grocery Cashier Program
 10. Basic Calculator
 11. Basic Login
+12. Basic Average Grade Calculator
