@@ -31,7 +31,7 @@ public class Main {
                 if(n1!=0 && n2!=0){
                     System.out.println("Division is: " + (n1 / n2));
                 }else{
-                    System.out.println("0 can not divide a number ");
+                    System.out.println(" Number cannot be divided by zero ");
                 }
                 break;
             default:
