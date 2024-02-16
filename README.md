@@ -16,3 +16,4 @@ Java programming language practices
 12. Basic Average Grade Calculator
 13. Basic Activity Recommender
 14. Basic Ascending Sort
+15. Simple Horoscope Finder
