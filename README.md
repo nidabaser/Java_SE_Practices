@@ -19,3 +19,4 @@ Java programming language practices
 15. Simple Horoscope Finder
 16. Flight Ticket Price Calculator
 17. Chinese Zodiac Calculator
+18. Leap Year Calculator
