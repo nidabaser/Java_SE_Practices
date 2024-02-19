@@ -10,7 +10,7 @@ public class Main {
         int num3 = s.nextInt();
         //Calculate given operation
         //Pay attention for priority of operators
-        int operation = num1 + num2 * num3 - num2;
+        int operation = num1 + (num2 * num3) - num2;
         System.out.println("Result is: " + operation);
     }
 }
