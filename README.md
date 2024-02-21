@@ -1,6 +1,8 @@
 # JavaPractices
 
-Java programming language practices
+## Java programming language practices from beginner to medior
+
+Beginner Level
 
 1. GPA Calculator
 2. VAT Calculator
@@ -21,3 +23,8 @@ Java programming language practices
 17. Chinese Zodiac Calculator
 18. Leap Year Calculator
 19. Arithmetic Operations and Operation Priority
+
+Practices with Loops
+
+1. Aritmetic Mean
+2. 
