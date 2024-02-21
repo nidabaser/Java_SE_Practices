@@ -1,8 +1,8 @@
-# JavaPractices
+# Java Practices
 
-## Java programming language practices from beginner to medior
+### Java programming language practices from beginner to medior
 
-Beginner Level
+#### Beginner Level
 
 1. GPA Calculator
 2. VAT Calculator
@@ -24,7 +24,7 @@ Beginner Level
 18. Leap Year Calculator
 19. Arithmetic Operations and Operation Priority
 
-Practices with Loops
+#### Practices with Loops
 
 1. Aritmetic Mean
 2. 
