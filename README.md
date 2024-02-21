@@ -27,4 +27,10 @@
 #### Practices with Loops
 
 1. Aritmetic Mean
-2. Sum Of Odd Numbers
+2. Sum of Multiples Of Four
+3. Sum Of Odd Numbers
+4. Powers Of Two
+5. Powers Of Four and Five
+6. Factorial Using For Loop
+7. Factorial Using While Loop
+8. Combination C(n,r)
