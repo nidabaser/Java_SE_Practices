@@ -34,3 +34,5 @@
 6. Factorial Using For Loop
 7. Factorial Using While Loop
 8. Combination C(n,r)
+9. Exponentiation Using For Loop
+10. loading...
