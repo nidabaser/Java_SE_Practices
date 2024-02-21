@@ -27,4 +27,4 @@
 #### Practices with Loops
 
 1. Aritmetic Mean
-2. 
+2. Sum Of Odd Numbers
