@@ -36,4 +36,6 @@
 8. Combination C(n,r)
 9. Exponentiation Using For Loop
 10. Armstrong Numbers
-11.  Loading ...
+11. Number Digits Sum
+12. Harmonic Series
+13.  Loading ...
