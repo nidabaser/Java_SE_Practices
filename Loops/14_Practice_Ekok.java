@@ -4,18 +4,25 @@ public class Main {
         
         Scanner scan = new Scanner(System.in);
         
-        int ekok = 0, max;
+        int lcm = 1, max;
 
         System.out.print("First number: ");
-        int sayi1 = scan.nextInt();
+        int num1 = scan.nextInt();
         System.out.print("Second number: ");
-        int sayi2 = scan.nextInt();
+        int num2 = scan.nextInt();
         
-        max = sayi1 * sayi2;
+        max = num1 * num2;
         
         // Eğer iki sayı aralarında asal ise ekok bu iki sayının çarpımlarıdır.
 
+        for (int i = 1; i <= max; i++){
+            if (i % num1 == 0 && i % num2 == 0) {
+                lcm = i;
+                break;
+            }
+        }
         
+        System.out.println("LCM = " + lcm);
         
     }
 }
