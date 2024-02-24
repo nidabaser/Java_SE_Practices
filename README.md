@@ -38,4 +38,15 @@
 10. Armstrong Numbers
 11. Number Digits Sum
 12. Harmonic Series
-13.  Loading ...
+13. Stars with loops
+14. Ekok (LCM)
+15. Ebob (GCD)
+16. Min & Max Numbers
+17. Perfect Numbers
+18. Diamond with Stars
+19. Inverted Triangle with Stars
+20. GCD & LCM with While Loops
+21. Multiplication Table
+22. Prime Numbers
+23. Fibonacci Series
+24.  Loading...
