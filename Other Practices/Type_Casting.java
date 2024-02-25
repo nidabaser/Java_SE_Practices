@@ -62,3 +62,19 @@ System.out.println(byteDeger);     // Çıktı: -126 (Byte tipinin sınırların
 
 //Bu kod örnekleri, farklı veri tipleri arasında nasıl tip dönüşümü (casting) yapılacağını göstermektedir.
 //Bu işlemler sırasında, veri kaybının önüne geçmek için dikkatli olunması gerektiğini unutmayın.
+
+//Tip Dönüşümü ile İlgili Dikkat Edilmesi Gerekenler:
+//Her dönüşüm, veri kaybına neden olabilir.
+//Özellikle, büyük veri tiplerini daha küçük veri tiplerine dönüştürmek, beklenmeyen sonuçlara yol açabilir.
+
+//Örnek
+int myInt = 257;
+byte myByte = (byte) myInt;
+System.out.println(myInt);   // Çıktı: 257
+System.out.println(myByte);  // Çıktı: 1
+
+/*
+Bu örnekte, int veri tipi byte veri tipine dönüştürülürken 257 değeri kaybolmuştur çünkü
+byte tipi -128 ile 127 arasındaki değerleri kapsar. Dolayısıyla, 257 değeri 256'ya bölünür ve
+kalan 1, byte tipindeki yeni değeri oluşturur.
+*/
