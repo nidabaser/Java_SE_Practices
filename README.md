@@ -23,6 +23,7 @@
 17. Chinese Zodiac Calculator
 18. Leap Year Calculator
 19. Arithmetic Operations and Operation Priority
+20. Type Casting
 
 #### Practices with Loops
 
