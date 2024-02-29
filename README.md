@@ -50,4 +50,14 @@
 21. Multiplication Table
 22. Prime Numbers
 23. Fibonacci Series
-24.  Loading...
+24. Basic ATM project
+
+#### Practices with Methods/Functions
+
+1. Palindrome Numbers
+2. Recursive Function
+3. Desene Göre Metod
+4. Recursive Fibonacci
+5. Recursive Exponantiation
+6. Recursive Prime Number
+7. Advanced Calculator
