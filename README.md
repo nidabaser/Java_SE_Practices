@@ -52,7 +52,7 @@
 23. Fibonacci Series
 24. Basic ATM project
 
-#### Practices with Methods/Functions
+#### Practices with Methods
 
 1. Palindrome Numbers
 2. Recursive Function
@@ -61,3 +61,11 @@
 5. Recursive Exponantiation
 6. Recursive Prime Number
 7. Advanced Calculator
+8. Palindrome Words
+9. Number Guess
+10. ...
+
+#### Practices with Arrays
+
+1. Harmonic Average
+2. ...
