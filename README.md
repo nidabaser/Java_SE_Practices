@@ -68,4 +68,6 @@
 #### Practices with Arrays
 
 1. Harmonic Average
-2. ...
+2. Min-Max Arrays
+3. B with stars
+4. ...
