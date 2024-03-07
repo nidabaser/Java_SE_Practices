@@ -1,6 +1,6 @@
 # Java Practices
 
-### Java programming language practices from beginner to medior
+### Patika Dev Java 101 Practices
 
 #### Beginner Level
 
