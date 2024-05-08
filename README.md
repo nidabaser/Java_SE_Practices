@@ -27,7 +27,7 @@
 
 #### Practices with Loops
 
-1. Aritmetic Mean
+1. Arithmetic Mean
 2. Sum of Multiples Of Four
 3. Sum Of Odd Numbers
 4. Powers Of Two
@@ -58,7 +58,7 @@
 2. Recursive Function
 3. Desene Göre Metod
 4. Recursive Fibonacci
-5. Recursive Exponantiation
+5. Recursive Exponentiation
 6. Recursive Prime Number
 7. Advanced Calculator
 8. Palindrome Words
@@ -70,4 +70,7 @@
 1. Harmonic Average
 2. Min-Max Arrays
 3. B with stars
-4. ...
+4. Repeated Even numbers in an array
+5. Sorting an array
+6. Frequency of elements in an array
+7. Matrix Transpose
